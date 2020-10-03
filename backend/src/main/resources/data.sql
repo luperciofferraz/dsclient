@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('João Pedro',       '02123072301', 2000, '1980-01-01', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Alice Cristina',   '03233182112', 3000, '1980-02-01', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('José Maria',       '04343297123', 4000, '1980-03-01', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Maria Luiza',      '05453302124', 5000, '1980-04-01', 4, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Roberto Mendonça', '07563412135', 6000, '1980-05-01', 5, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Débora Ferraz',    '08673522536', 7000, '1980-06-01', 6, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Joaquim da Silva', '04783632107', 8000, '1980-07-01', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Marta Hortência',  '00893748218', 9000, '1980-08-01', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Romário Faria',    '09908052389', 10000, '1980-09-01', 5, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('Josélia Cristina', '01013962100', 11000, '1980-10-01', 2, NOW());
